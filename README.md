@@ -1,6 +1,8 @@
 ## Hi there 👋
 ## - 🌱 I’m currently learning  GitHub at the Moment
 ## - 🌱 I’m currently learning More about Web Developing espcially Front-End tech stacks such as html, php, css and JavaScript
+## - 🌱 I’m currently learning More about Assistance of AI in coding. 
+## - 🌱 But i still learn how to do it manually only use ai for debugging or designing when i can't do it
 
 [![MasterHead](https://static.zerochan.net/Kephale.1024.4406604.webp)](https://github.com/MidnightAzzura)
 <div class='container'>
