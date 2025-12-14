@@ -1,11 +1,13 @@
 ## Hi there 👋
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?MidnightAzzura=user&show_icons=true&theme=blue-green" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?MidnightAzzura=user&theme=blue-green&langs_count=8&layout=compact" /></div>
-</div>
 
+[![MasterHead](https://static.zerochan.net/Kephale.1024.4406604.webp)](https://github.com/MidnightAzzura)
+<div class='container'>
+<img style="height: auto; width: 55%; " class="img" src=" https://github-readme-stats.vercel.app/api/pin/?username=MidnightAzzura&repo=github-readme-stats"/>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=MidnightAzzura&show_icons=true&theme=tokyonight" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightAzzura&theme=ayu-mirage&langs_count=8&layout=pie" /></div>
+</div>
 <!--
 **MidnightAzzura/MidnightAzzura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
