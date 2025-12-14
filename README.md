@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 [![Midnight Azzura GitHub stats](https://github-readme-stats.vercel.app/api?username=MidnightAzzura)](https://github.com/MidnightAzzura/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightAzzura&size_weight=0.5&count_weight=0.5)
 <!--
 **MidnightAzzura/MidnightAzzura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
