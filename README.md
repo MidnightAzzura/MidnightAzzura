@@ -1,5 +1,5 @@
 ## Hi there 👋
-## - 🌱 I’m currently learning  GitHub at the Moment
+## - 🌱 I’m currently learning  GitHub and Git at the Moment
 ## - 🌱 I’m currently learning More about Web Developing espcially Front-End tech stacks such as html, php, css and JavaScript
 ## - 🌱 I’m currently learning More about Assistance of AI in coding. 
 ## - 🌱 But i still learn how to do it manually only use ai for debugging or designing when i can't do it
