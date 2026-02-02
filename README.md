@@ -26,16 +26,11 @@ I am a dedicated learner building a strong foundation in Web Development and Ver
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MidnightAzzura&show_icons=true&theme=tokyonight" alt="MidnightAzzura's Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MidnightAzzura&repo=Astral_3&theme=tokyonight" alt="Pinned Repo" />
-</p>
+[![MidnightAzzura's Stats](https://github-readme-stats-eight.vercel.app/api?username=MidnightAzzura&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightAzzura&theme=ayu-mirage&langs_count=8&layout=pie" alt="Top Languages" />
-</p>
+[![Pinned Repo](https://github-readme-stats-eight.vercel.app/api/pin/?username=MidnightAzzura&repo=Astral_3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
+[![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=MidnightAzzura&theme=ayu-mirage&langs_count=8&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝 Connect with me
 <p align="left">
