@@ -20,17 +20,23 @@ I am a dedicated learner building a strong foundation in Web Development and Ver
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+ <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MidnightAzzura&show_icons=true&theme=tokyonight" alt="Stats Card" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MidnightAzzura&theme=tokyonight" alt="Streak Stats" />
+</p>
 
-[![MidnightAzzura's Stats](https://github-readme-stats-eight.vercel.app/api?username=MidnightAzzura&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightAzzura&theme=ayu-mirage&langs_count=8&layout=pie" alt="Top Languages" />
+</p>
 
-[![Pinned Repo](https://github-readme-stats-eight.vercel.app/api/pin/?username=MidnightAzzura&repo=Astral_3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=MidnightAzzura&theme=ayu-mirage&langs_count=8&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### 🤝 Connect with me
 <p align="left">
