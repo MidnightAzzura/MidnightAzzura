@@ -4,9 +4,13 @@
   <img src="https://static.zerochan.net/Kephale.1024.4406604.webp" width="100%" alt="MasterHead" />
 </div>
 
-### 🔭 Current Status
+### 🔭 Done
+> [!FINISHED]
+> **Done With My OJT (On-the-Job Training) or Internship opportunities.** I am eager to apply my skills in Web Development and IT Support in a professional environment.
+
+### Current 
 > [!IMPORTANT]
-> **I am currently seeking OJT (On-the-Job Training) or Internship opportunities.** I am eager to apply my skills in Web Development and IT Support in a professional environment.
+> **Seeking for a entry level job on Tech Support, Basic IT Engineer.
 
 ---
 
